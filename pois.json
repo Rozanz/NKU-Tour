@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Rec center",
+        "location": "1 Louie B Nunn Dr, Newport, KY 41076",
+        "day": "sun-fri",
+        "hour": "10-4",
+        "number": "1234324324",
+        "picture": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcS1HfmCvZ5kVtJvJkkbU5-42dnfhmoaWcWtOA&usqp=CAU",
+        "detail": "worororo"
+    },
+    {
+        "name": "landrum",
+        "location": "nku",
+        "day": "sun-fri",
+        "hour": "10-4",
+        "number": "1234324324",
+        "picture": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcS1HfmCvZ5kVtJvJkkbU5-42dnfhmoaWcWtOA&usqp=CAUhttp:\/\/localhost\/NKUtour\/poi\/create.php",
+        "detail": "qo"
+    },
+    {
+        "name": "griffin",
+        "location": "nku",
+        "day": "sun-fri",
+        "hour": "10-4",
+        "number": "1234324324",
+        "picture": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcS1HfmCvZ5kVtJvJkkbU5-42dnfhmoaWcWtOA&usqp=CAU",
+        "detail": "xoxo"
+    },
+    {
+        "name": "Steely Library",
+        "location": "nku",
+        "day": "sun-fri",
+        "hour": "10-4",
+        "number": "1234324324",
+        "picture": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcS1HfmCvZ5kVtJvJkkbU5-42dnfhmoaWcWtOA&usqp=CAU",
+        "detail": "ao"
+    },
+    {
+        "name": "landrum",
+        "location": "landrum",
+        "day": "sun-mon",
+        "hour": "10-2",
+        "number": "1234324324",
+        "picture": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcS1HfmCvZ5kVtJvJkkbU5-42dnfhmoaWcWtOA&usqp=CAU",
+        "detail": "hi hello"
+    }
+]
